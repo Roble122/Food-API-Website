@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\capstone"
+    "\\capstone",
+    "\\capstone\\capstone"
   ],
-  "SelectedNode": "\\capstone.sln",
+  "SelectedNode": "\\capstone\\requirements.txt",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,25 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}</h2>
+<form name='GoogleForm' action="" class="post-form" method="post">
+    {% csrf_token %}
+    <label for="Foodinput">Type of food your searching for: </label>
+    <input id="Foodinput" type="text" name="Foodinput" placeholder="Type..." value="{{ GoogleForm.Foodinput }}">
+    <input type="submit" value="OK" name="OK">
+</form>
+
+{%   for g in google_data   %}
+<ul>
+    <li>
+        <td>{{ g.Resname }}</td>
+        <td>{{ g.Address }}</td>
+        <td>{{ g.Lat }}</td>
+        <td>{{ g.Long }}</td>
+    </li>
+</ul>
+{%   endfor   %}
+
+
+    {% endblock %}

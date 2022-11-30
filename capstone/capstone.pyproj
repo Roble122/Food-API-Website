@@ -34,6 +34,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\API\MapsAPI\maps.py" />
+    <Compile Include="app\API\MapsAPI\__init__.py" />
+    <Compile Include="app\API\RobleAPI\nutrition.py" />
+    <Compile Include="app\API\SanjayAPI\nutrinix.py" />
+    <Compile Include="app\API\SanjayAPI\__init__.py" />
     <Compile Include="app\API\YelpAPI\__init__.py">
       <SubType>Code</SubType>
     </Compile>
@@ -68,6 +73,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
+    <Folder Include="app\API\MapsAPI\" />
+    <Folder Include="app\API\RobleAPI\" />
+    <Folder Include="app\API\SanjayAPI\" />
+    <Folder Include="app\API\SanjayAPI\__pycache__\" />
     <Folder Include="app\API\YelpAPI\" />
     <Folder Include="app\migrations\" />
     <Folder Include="app\media\" />
@@ -84,6 +93,14 @@
     <Folder Include="capstone\settings\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\API\MapsAPI\data.json" />
+    <Content Include="app\API\RobleAPI\nutrition.json" />
+    <Content Include="app\API\SanjayAPI\nutrinix.json" />
+    <Content Include="app\API\SanjayAPI\__pycache__\nutrinix.cpython-39.pyc" />
+    <Content Include="app\API\SanjayAPI\__pycache__\__init__.cpython-39.pyc" />
+    <Content Include="app\templates\app\foodnutrients.html" />
+    <Content Include="app\templates\app\googleresults.html" />
+    <Content Include="app\templates\app\nutritionix.html" />
     <Content Include="app\templates\app\registration.html">
       <SubType>Code</SubType>
     </Content>

@@ -1,2 +1,4 @@
+C:\Users\Christina\Desktop\FoodAPI\Food-API-Website\capstone\obj\Any CPU\Debug\capstone.pyproj.SuggestedBindingRedirects.cache
+C:\Users\Christina\Desktop\FoodAPI\Food-API-Website\capstone\obj\Any CPU\Debug\capstone.pyproj.CoreCompileInputs.cache
 C:\Users\diggt\OneDrive\College\Rowan\Fall22\10430_computing_and_informatics_capstone\capstone\capstone\obj\Any CPU\Debug\capstone.pyproj.SuggestedBindingRedirects.cache
 C:\Users\diggt\OneDrive\College\Rowan\Fall22\10430_computing_and_informatics_capstone\capstone\capstone\obj\Any CPU\Debug\capstone.pyproj.CoreCompileInputs.cache

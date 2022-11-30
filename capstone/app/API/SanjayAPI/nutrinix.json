@@ -1,0 +1,100 @@
+[
+    {
+        "id": "a0FEhgrOIk_M6_o0ie-NpQ",
+        "alias": "the-roost-restaurant-cream-ridge-2",
+        "name": "The Roost Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cw_4asxGADHYudbxK0hbVw/o.jpg",
+        "is_claimed": true,
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-roost-restaurant-cream-ridge-2?adjust_creative=9aYQmmK21ApZ7TfokeTk1A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=9aYQmmK21ApZ7TfokeTk1A",
+        "phone": "+16092082500",
+        "display_phone": "(609) 208-2500",
+        "review_count": 61,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 3.5,
+        "location": {
+            "address1": "181 County Rd 539",
+            "address2": null,
+            "address3": "",
+            "city": "Cream Ridge",
+            "zip_code": "08514",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "181 County Rd 539",
+                "Cream Ridge, NJ 08514"
+            ],
+            "cross_streets": ""
+        },
+        "coordinates": {
+            "latitude": 40.14712297092431,
+            "longitude": -74.53826878018624
+        },
+        "photos": [
+            "https://s3-media1.fl.yelpcdn.com/bphoto/Cw_4asxGADHYudbxK0hbVw/o.jpg",
+            "https://s3-media3.fl.yelpcdn.com/bphoto/W1J1IgSm0KDHwvUoj-9rCQ/o.jpg",
+            "https://s3-media3.fl.yelpcdn.com/bphoto/H4qpTkSebuzDGUb4V3HDbQ/o.jpg"
+        ],
+        "price": "$$",
+        "hours": [
+            {
+                "open": [
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "2100",
+                        "day": 0
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "2100",
+                        "day": 1
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "2100",
+                        "day": 2
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1200",
+                        "end": "2100",
+                        "day": 3
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2200",
+                        "day": 4
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2200",
+                        "day": 5
+                    },
+                    {
+                        "is_overnight": false,
+                        "start": "1100",
+                        "end": "2200",
+                        "day": 6
+                    }
+                ],
+                "hours_type": "REGULAR",
+                "is_open_now": true
+            }
+        ],
+        "transactions": []
+    }
+]
